@@ -38,7 +38,7 @@ Global tasks:
     35) need to make mapping with error messages with gettext?
     36) (done) need to make new format strings with extra (url from request) for debug logs maybe use filters or just handler for debug
     37) need to write whoami handler
-    38) try to use dataclasses for sql queries
+    38) try to use dataclasses and enum for sql queries
     39) need to add smtpd for debugging and testing
     40) need to docker technology
     41) need to run tests in docker image
@@ -97,8 +97,10 @@ Current tasks:
     10) need to renew pyjwt api in decode function required (done)
     11) need to glance to all global tasks and decide what I must to do (done)
     12) need to write whoami handler
-        - need to add some id in access token
+        - need to add user_id claim in access token and check user_id with id in match info
+	- need to return info about user in login response
     13) need to read book about basic SQL
     14) need to simplify all try clauses in code
+    15) need to add sites in knowledge-base
 
 

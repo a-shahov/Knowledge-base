@@ -2,6 +2,7 @@
        - for using examples: SQL language with cheatsheet
        - for regexp with cheatsheet
        - for curl (just use curl official cheat sheet)
+       - for grep and find
 2) need to elaborate concept of the tasks site with algorithms
 3) need examine python library
 4) need add youtube channels into knowledge base (done)
