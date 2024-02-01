@@ -62,6 +62,9 @@ Global tasks:
     59) check all log.debug with isEnabledFor
     60) need generate random user data when refactoring tests
     61) need to add comments in SQL queries
+    62) need to simplify all try clauses in code
+    63) need to add descriptors for valid_perms in set_permission
+    64) need to check permissions with bitwise operations
 
 Current tasks:
     1) refresh token in cookies need to change (done)
@@ -81,7 +84,7 @@ Current tasks:
     5) put in orded knowledge base (done)
     6) need to do app.config_dict['...'] (done)
     7) learn pytest (done)
-    8) implement tests for backend
+    8) implement tests for backend (done)
         - need to remove tests from TestAuthEndpoints (done)
 	- need to move all asserts from login_test in functions (done) - not required
         - need to get rid off dependency between tests (done partially)
@@ -94,5 +97,8 @@ Current tasks:
     10) need to renew pyjwt api in decode function required (done)
     11) need to glance to all global tasks and decide what I must to do (done)
     12) need to write whoami handler
+        - need to add some id in access token
     13) need to read book about basic SQL
+    14) need to simplify all try clauses in code
+
 

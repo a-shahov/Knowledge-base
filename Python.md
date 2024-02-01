@@ -24,6 +24,8 @@
 - [tempfile](https://docs.python.org/3/library/tempfile.html)
 - [datetime](https://docs.python.org/3/library/datetime.html)
 - [contexlib](https://docs.python.org/3/library/contextlib.html)
+- [functools]()
+- [dataclasses]()
 - [doctest](https://docs.python.org/3/library/doctest.html)
 - [unittest](https://docs.python.org/3/library/unittest.html)
 - [pdb](https://docs.python.org/3/library/pdb.html)
@@ -48,6 +50,9 @@
 - [python tutorial](https://docs.python.org/3/tutorial/index.html) **read**
 - [Makefile with python](https://blog.horejsek.com/makefile-with-python/)
 - [Habr порядок разрешения имён при наследовании](https://habr.com/ru/articles/62203/)
+- [UNИX lecture about MRO C3](https://uneex.org/LecturesCMC/PythonIntro2022/09_InheritanceExceptions)
+- [MRO C3 Елена Шамаева](https://0x1.tv/MROC3_%E2%80%94_%D0%BD%D0%B5_%D0%BC%D0%B0%D0%B3%D0%B8%D1%8F,_%D0%B0_%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B5%D0%B4%D0%BB%D0%B8%D0%B2%D0%BE%D0%B5_%D1%81%D0%BB%D0%B8%D1%8F%D0%BD%D0%B8%D0%B5_%D0%BE%D1%87%D0%B5%D1%80%D0%B5%D0%B4%D0%B5%D0%B9_(%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%A8%D0%B0%D0%BC%D0%B0%D0%B5%D0%B2%D0%B0,_OSEDUCONF-2021)
+- [MRO official article](https://www.python.org/download/releases/2.3/mro/)
 
 #### Python HOWTO
 - [python regexp HOWTO](https://docs.python.org/3/howto/regex.html) **read**
