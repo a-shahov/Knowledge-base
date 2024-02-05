@@ -21,11 +21,18 @@
 - [mypy](https://mypy.readthedocs.io/en/latest/)
 
 #### Standard library
+- [array](https://docs.python.org/3/library/array.html)
+- [types](https://docs.python.org/3/library/types.html)
+- [asyncio](https://docs.python.org/3/library/asyncio.html)
+- [abc](https://docs.python.org/3/library/abc.html)
+- [collections.abc](https://docs.python.org/3/library/collections.abc.html)
+- [typing](https://docs.python.org/3/library/typing.html)
+- [inspect](https://docs.python.org/3/library/inspect.html)
 - [tempfile](https://docs.python.org/3/library/tempfile.html)
 - [datetime](https://docs.python.org/3/library/datetime.html)
 - [contexlib](https://docs.python.org/3/library/contextlib.html)
-- [functools]()
-- [dataclasses]()
+- [functools](https://docs.python.org/3/library/functools.html)
+- [dataclasses](https://docs.python.org/3/library/dataclasses.html)
 - [doctest](https://docs.python.org/3/library/doctest.html)
 - [unittest](https://docs.python.org/3/library/unittest.html)
 - [pdb](https://docs.python.org/3/library/pdb.html)
@@ -39,6 +46,11 @@
 - [random](https://docs.python.org/3/library/random.html)
 - [secrets](https://docs.python.org/3/library/secrets.html)
 - [ssl](https://docs.python.org/3/library/ssl.html)
+- [zipapp](https://docs.python.org/3/library/zipapp.html)
+- [dbm](https://docs.python.org/3/library/dbm.html)
+- [io](https://docs.python.org/3/library/io.html)
+- [pickle](https://docs.python.org/3/library/pickle.html)
+- [struct](https://docs.python.org/3/library/struct.html)
 - [shutil](https://docs.python.org/3/library/shutil.html)
 - [os](https://docs.python.org/3/library/os.html)
 - [pathlib](https://docs.python.org/3/library/pathlib.html)
@@ -46,6 +58,10 @@
 
 ## Articles
 ---
+- [python singletons](https://webdevblog.ru/realizaciya-shablona-singleton-v-python/)
+- [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+- [Article about Metaclasses by Sahand Saba](https://sahandsaba.com/python-classes-metaclasses.html)
+- [When to use metaclasses in Python](https://breadcrumbscollector.tech/when-to-use-metaclasses-in-python-5-interesting-use-cases/)
 - [python packaging guide](https://packaging.python.org/en/latest/) **read**
 - [python tutorial](https://docs.python.org/3/tutorial/index.html) **read**
 - [Makefile with python](https://blog.horejsek.com/makefile-with-python/)
@@ -71,6 +87,7 @@
 #### PEP's
 - [PEP 249 python database API](https://peps.python.org/pep-0249/)
 - [PEP 8 style guide](https://peps.python.org/pep-0008/)
+- [PEP 563 postponed evaluation of annotations](https://peps.python.org/pep-0563/)
 ---
 
 ## Sites and blogs
@@ -96,6 +113,7 @@
 - [aiohttp from author by Andrew Svetlov](https://www.youtube.com/watch?v=5NrnBu1vcKo)
 - [asyncio pitfalls by Andrew Svetlov](https://www.youtube.com/watch?v=GLN_xo4Awcc)
 - [pytest by Andrew Svetlov](https://www.youtube.com/watch?v=7KgihdKTWY4)
+- [Разработка прикладных программ на Python курс](https://uneex.org/LecturesCMC/PythonDevelopment2015)
 ---
 
 ## Need to research

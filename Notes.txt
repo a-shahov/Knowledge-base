@@ -11,3 +11,5 @@
     - find and grep
     - comment block of code
     - tab completition
+6) need to solve all hard homeworks from UNИX about python
+7) need to read all What's new in Python
