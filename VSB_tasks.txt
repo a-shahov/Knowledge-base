@@ -65,6 +65,7 @@ Global tasks:
     62) need to simplify all try clauses in code
     63) need to add descriptors for valid_perms in set_permission
     64) need to check permissions with bitwise operations
+        - how to implement this ?
 
 Current tasks:
     1) refresh token in cookies need to change (done)
@@ -96,11 +97,22 @@ Current tasks:
         - just need linux to put in order (done)
     10) need to renew pyjwt api in decode function required (done)
     11) need to glance to all global tasks and decide what I must to do (done)
-    12) need to write whoami handler
-        - need to add user_id claim in access token and check user_id with id in match info
-	- need to return info about user in login response
+    12) need to write whoami handler (DONT NEED!!!!!) (done)
+        - need to add user_id claim in access token and check user_id with id in match info (done)
+	- need to return info about user in login response same as in whoami (done)
+	- renew generating tokens with method update in claims (done) it will very bad
+	- change permissions with enum (done)
+	- user state with enum (done)
+	- need to change tests with new claims in jwt (done)
     13) need to read book about basic SQL
-    14) need to simplify all try clauses in code
-    15) need to add sites in knowledge-base
-
+        - need to solve all examples in text
+    14) need to simplify all try clauses in code (done)
+    15) need to add sites in knowledge-base (done)
+    16) need to read ENUM HOWTO + dataclasses + pattern matching
+    17) add into auth_middleware check ueid and match_info
+    18) need to upload and download files
+        - read about MIME types
+	- read about multipart HTTP
+    19) need to find places where match case will be good
+        - maybe in ExceptionGroup?
 

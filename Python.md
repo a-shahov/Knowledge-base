@@ -88,6 +88,7 @@
 - [PEP 249 python database API](https://peps.python.org/pep-0249/)
 - [PEP 8 style guide](https://peps.python.org/pep-0008/)
 - [PEP 563 postponed evaluation of annotations](https://peps.python.org/pep-0563/)
+- [PEP 636 Pattern Matching tutorial](https://peps.python.org/pep-0636/)
 ---
 
 ## Sites and blogs
@@ -118,6 +119,7 @@
 
 ## Need to research
 ---
+- [twisted](https://twisted.org/)
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 - [pytest-repeat](https://github.com/pytest-dev/pytest-repeat)
 - [pytest-aiohttp](https://github.com/aio-libs/pytest-aiohttp/)

@@ -4,12 +4,15 @@
        - for curl (just use curl official cheat sheet)
        - for grep and find
 2) need to elaborate concept of the tasks site with algorithms
-3) need examine python library
+3) need to read python tutorial
 4) need add youtube channels into knowledge base (done)
 5) functions needed in vim
     - tree of dirs
     - find and grep
     - comment block of code
-    - tab completition
+    - tab completition for python
+    - python codestyle check
+    - LSP python
 6) need to solve all hard homeworks from UNИX about python
 7) need to read all What's new in Python
+8) write my own typing app

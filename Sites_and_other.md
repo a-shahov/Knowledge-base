@@ -1,5 +1,13 @@
 ## Sites
 ---
+- [cppreference](https://en.cppreference.com/w/)
+- [cplusplus](https://cplusplus.com/reference/)
+- [RFC editor](https://www.rfc-editor.org/)
+- [OpenNET](https://www.opennet.ru/)
+- [man7](https://man7.org/index.html)
+- [UNИX](https://uneex.org/MainPage)
+- [MAXimal](https://e-maxx.ru/algo/)
+  > Algorithms
 - [Martin Fowler](https://martinfowler.com/)
 - [Software Developments tools](https://www.methodsandtools.com/tools/tools.php)
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
