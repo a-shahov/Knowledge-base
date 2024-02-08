@@ -54,6 +54,7 @@
 
 ## Computer science
 ---
+- [ISCRA](https://www.youtube.com/@iscrainfosecclubra6974/videos)
 - [Computer Science Center](https://www.youtube.com/@CompscicenterRu)
 - [kgeorgiy's courses](https://www.youtube.com/@kgeorgiycourses/playlists)
 - [Тестирование ПО](https://www.youtube.com/@user-nh8dz4lp7f/playlists)

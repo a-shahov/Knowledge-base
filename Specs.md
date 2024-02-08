@@ -19,4 +19,5 @@
 - [UML diagrams](https://www.uml-diagrams.org/)
 - [Markdown](https://www.markdownguide.org/)
 - [RestructuredText](https://restructuredtext.readthedocs.io/en/latest/)
+- [LaTeX](https://www.latex-project.org/)
 ---

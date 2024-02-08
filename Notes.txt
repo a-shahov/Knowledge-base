@@ -16,3 +16,8 @@
 6) need to solve all hard homeworks from UNИX about python
 7) need to read all What's new in Python
 8) write my own typing app
+9) need to learn HTML, CSS
+10) need to learn Javascript
+11) need to learn JQuery
+12) need to learn Gimp
+

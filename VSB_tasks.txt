@@ -111,8 +111,14 @@ Current tasks:
     16) need to read ENUM HOWTO + dataclasses + pattern matching
     17) add into auth_middleware check ueid and match_info
     18) need to upload and download files
-        - read about MIME types
-	- read about multipart HTTP
+        - need to invent alhorithm for storing user files
+        - read about MIME types (done)
+	- read about multipart HTTP (done)
     19) need to find places where match case will be good
         - maybe in ExceptionGroup?
+    20) read book Dive into Python3
+    21) read book about vim
+    22) watch lections about databases
+    23) watch lections about python
+        - need to solve UNIX python homeworks
 

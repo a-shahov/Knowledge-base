@@ -1,6 +1,8 @@
 ## Sites and other
 ---
 - [System R](https://mcjones.org/System_R/SQL_Reunion_95/sqlr95.html)
+- [Базы данных вводный курс книга](http://citforum.ru/database/advanced_intro/)
+- [СУБД](http://citforum.ru/database/)
 ---
 
 ## PostgreSQL
