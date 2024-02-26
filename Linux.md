@@ -12,6 +12,9 @@
 - [tmux](https://github.com/tmux/tmux/wiki)
 - [ranger](https://ranger.github.io/)
 - [kitty](https://sw.kovidgoyal.net/kitty/)
+- [ly](https://github.com/fairyglade/ly)
+- [qtile](https://qtile.org/)
+- [ffmpeg](https://ffmpeg.org/)
 
 #### Linux terminal utils
 - [exa](https://the.exa.website/)

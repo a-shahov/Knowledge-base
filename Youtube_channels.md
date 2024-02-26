@@ -1,5 +1,7 @@
 ## Just blogers
 ---
+- [linux dabbler](https://www.youtube.com/@linuxdabbler/videos)
+- [JustAGuy Linux](https://www.youtube.com/@JustAGuyLinux)
 - [RomNero](https://www.youtube.com/@RomNero/videos)
 - [DorianDotSlash](https://www.youtube.com/@Doriandotslash)
 - [SOER](https://www.youtube.com/@S0ERDEVS)
@@ -54,6 +56,7 @@
 
 ## Computer science
 ---
+- [CMU Databese Group](https://www.youtube.com/@CMUDatabaseGroup/playlists)
 - [ISCRA](https://www.youtube.com/@iscrainfosecclubra6974/videos)
 - [Computer Science Center](https://www.youtube.com/@CompscicenterRu)
 - [kgeorgiy's courses](https://www.youtube.com/@kgeorgiycourses/playlists)
@@ -110,7 +113,7 @@
 ---
 - [$mol](https://www.youtube.com/@mam_mol)
 - [PurpleSchool](https://www.youtube.com/@PurpleSchool)
-- 
+- [As for Js](https://www.youtube.com/@AsForJS)
 ---
 
 ## Other

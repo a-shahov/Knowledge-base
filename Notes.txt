@@ -7,9 +7,10 @@
 3) need to read python tutorial
 4) need add youtube channels into knowledge base (done)
 5) functions needed in vim
+    - comment block of code
+    - add/delete whitespaces for multiple lines
     - tree of dirs
     - find and grep
-    - comment block of code
     - tab completition for python
     - python codestyle check
     - LSP python
@@ -20,4 +21,5 @@
 10) need to learn Javascript
 11) need to learn JQuery
 12) need to learn Gimp
+13) functions needed in qtile
 

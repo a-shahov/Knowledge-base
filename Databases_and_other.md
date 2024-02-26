@@ -36,3 +36,8 @@
 ---
 - [celery](https://docs.celeryq.dev/en/stable/index.html)
 ---
+
+## Youtube
+---
+- [Кузнецов Базы данных](https://www.youtube.com/watch?v=xYEeRAMyHdY&list=PLcsjsqLLSfNCWyzSIQewgbJKmeVV53VH6&index=2)
+---
