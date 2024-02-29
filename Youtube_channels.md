@@ -1,5 +1,7 @@
 ## Just blogers
 ---
+- [MAKC](https://www.youtube.com/@makc/playlists)
+- [Eric Murphy](https://www.youtube.com/@EricMurphyxyz)
 - [linux dabbler](https://www.youtube.com/@linuxdabbler/videos)
 - [JustAGuy Linux](https://www.youtube.com/@JustAGuyLinux)
 - [RomNero](https://www.youtube.com/@RomNero/videos)
