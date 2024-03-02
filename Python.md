@@ -1,5 +1,5 @@
-## Libraries
 ---
+## Libraries
 - [aiohttp](https://docs.aiohttp.org/en/stable/index.html) **read**
 - [psycopg3](https://www.psycopg.org/psycopg3/docs/)
 - [jsonschema](https://python-jsonschema.readthedocs.io/en/stable/) **read**
@@ -55,9 +55,7 @@
 - [os](https://docs.python.org/3/library/os.html)
 - [pathlib](https://docs.python.org/3/library/pathlib.html)
 ---
-
 ## Articles
----
 - [python singletons](https://webdevblog.ru/realizaciya-shablona-singleton-v-python/)
 - [The Python Language Reference](https://docs.python.org/3/reference/index.html)
 - [Article about Metaclasses by Sahand Saba](https://sahandsaba.com/python-classes-metaclasses.html)
@@ -90,9 +88,7 @@
 - [PEP 563 postponed evaluation of annotations](https://peps.python.org/pep-0563/)
 - [PEP 636 Pattern Matching tutorial](https://peps.python.org/pep-0636/)
 ---
-
 ## Sites and blogs
----
 - [python docs](https://docs.python.org/3/)
 - [книга "Типизированный python"](https://to.digital/typed-python/intro/intro.html)
 - [pythontutor](https://pythontutor.com/python-compiler.html#mode=edit)
@@ -101,24 +97,18 @@
 - [neopythonic blog](https://neopythonic.blogspot.com/)
 - [pythontutor](https://pythontutor.com/python-compiler.html#mode=edit)
 ---
-
 ## Examples of python code
----
 - [structure of webapp](https://github.com/horejsek/python-webapp-example)
 - [aiohttp demos](https://github.com/aio-libs/aiohttp-demos)
 ---
-
 ## Youtube
----
 - [How to send emails smtplib by Corey Schafer](https://www.youtube.com/watch?v=JRCJ6RtE3xU)
 - [aiohttp from author by Andrew Svetlov](https://www.youtube.com/watch?v=5NrnBu1vcKo)
 - [asyncio pitfalls by Andrew Svetlov](https://www.youtube.com/watch?v=GLN_xo4Awcc)
 - [pytest by Andrew Svetlov](https://www.youtube.com/watch?v=7KgihdKTWY4)
 - [Разработка прикладных программ на Python курс](https://uneex.org/LecturesCMC/PythonDevelopment2015)
 ---
-
 ## Need to research
----
 - [twisted](https://twisted.org/)
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 - [pytest-repeat](https://github.com/pytest-dev/pytest-repeat)

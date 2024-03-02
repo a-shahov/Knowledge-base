@@ -1,5 +1,5 @@
-## Sites
 ---
+## Sites
 - [cppreference](https://en.cppreference.com/w/)
 - [cplusplus](https://cplusplus.com/reference/)
 - [RFC editor](https://www.rfc-editor.org/)
@@ -13,14 +13,10 @@
 - [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 - [Projects based learning](https://github.com/practical-tutorials/project-based-learning)
 ---
-
 ## Frontend
----
 - [roadmap frontend](https://vallek.github.io/frontend-roadmap-ru/)
 ---
-
 ## Books
----
 - [Stolyarov books](http://stolyarov.info/books/programming_intro/e2)
 ---
 

@@ -1,5 +1,5 @@
-## Just blogers
 ---
+## Just blogers
 - [MAKC](https://www.youtube.com/@makc/playlists)
 - [Eric Murphy](https://www.youtube.com/@EricMurphyxyz)
 - [linux dabbler](https://www.youtube.com/@linuxdabbler/videos)
@@ -21,9 +21,7 @@
 - [Mikhail Kashkin](https://www.youtube.com/@mkashkin)
 - [Learn Linux TV](https://www.youtube.com/@LearnLinuxTV)
 ---
-
 ## Python
----
 - [Corey Schafer](https://www.youtube.com/@coreyms)
 - [Real Python](https://www.youtube.com/@realpython/videos)
 - [Very Academy](https://www.youtube.com/@veryacademy/playlists)
@@ -55,9 +53,7 @@
 - [Kirill Semaev](https://www.youtube.com/@KirillSemaev)
 - [TheOloccorb](https://www.youtube.com/@TheOloccorb)
 ---
-
 ## Computer science
----
 - [CMU Databese Group](https://www.youtube.com/@CMUDatabaseGroup/playlists)
 - [ISCRA](https://www.youtube.com/@iscrainfosecclubra6974/videos)
 - [Computer Science Center](https://www.youtube.com/@CompscicenterRu)
@@ -94,32 +90,24 @@
 - [Лекторий ФПМИ](https://www.youtube.com/@lectory_fpmi)
 - [Дистанционные занаятия МФТИ](https://www.youtube.com/@mipt_study)
 ---
-
 ## Security
----
 - [OWASP](https://www.youtube.com/@OWASPGLOBAL)
 - [Vitalii Malkin](https://www.youtube.com/@ITSEC/videos)
 - [Rana Khalil](https://www.youtube.com/@RanaKhalil101)
 ---
-
 ## C, C++
----
 - [THodnev](https://www.youtube.com/@THodnev)
 - [Владимир Башун](https://www.youtube.com/@vbashun/playlists)
 - [Sanfoundry](https://www.youtube.com/@SanfoundryOfficial)
 - [Konstantin Vladimirov](https://www.youtube.com/@tilir)
 - [Спортивное программирование МИРЭА](https://www.youtube.com/@cp_mirea/playlists)
 ---
-
 ## Frontend
----
 - [$mol](https://www.youtube.com/@mam_mol)
 - [PurpleSchool](https://www.youtube.com/@PurpleSchool)
 - [As for Js](https://www.youtube.com/@AsForJS)
 ---
-
 ## Other
----
 - [Глеб Михайлов](https://www.youtube.com/@GlebMikhaylov/playlists)
 - [COURSES](https://www.youtube.com/@courses7206/playlists)
 - [Системное программирование ММФ НГУ](https://www.youtube.com/@syspro_mmf_nsu/videos)
