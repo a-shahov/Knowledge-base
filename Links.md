@@ -1,6 +1,19 @@
-# Need to research
 ---
+# Need to research
+- [vim-kitty](https://github.com/fladson/vim-kitty)
+- [vimwiki](https://vimwiki.github.io/)
+- [ripgrep](https://github.com/BurntSushi/ripgrep)
+- [tig](https://jonas.github.io/tig/)
+- [awrit](https://github.com/chase/awrit)
+- [weechat](https://weechat.org/)
+- [wttr.in](https://github.com/chubin/wttr.in)
+- [pets.nvim](https://github.com/giusgad/pets.nvim)
+- [fzf](https://github.com/yurikhan/kitty_grab)
+- [ncat](https://nmap.org/ncat/)
 - [dotfiles from github](https://github.com/dexpota/.dotfiles/tree/master)
+- [dotfiles from github2](https://github.com/calinleafshade/dots)
+- [dotfile from github3](https://github.com/fhchl/dotfiles)
+- [dotfiles from gitgub4](https://github.com/LukeSmithxyz/voidrice)
 - [qtile on debian](https://github.com/drewgrif/qtile-debian)
 - [vim plug](https://www.youtube.com/watch?v=_n9oKn4FW2w)
 - [XDG base directory specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)

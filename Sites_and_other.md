@@ -1,5 +1,8 @@
 ---
 ## Sites
+- [debdocs](https://devdocs.io/)
+- [archwiki PDF Djvu](https://wiki.archlinux.org/title/PDF,_PS_and_DjVu)
+- [lukesmith.xyz](https://lukesmith.xyz/programs/)
 - [cppreference](https://en.cppreference.com/w/)
 - [cplusplus](https://cplusplus.com/reference/)
 - [RFC editor](https://www.rfc-editor.org/)

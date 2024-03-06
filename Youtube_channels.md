@@ -54,6 +54,7 @@
 - [TheOloccorb](https://www.youtube.com/@TheOloccorb)
 ---
 ## Computer science
+- [Dr Bragin](https://www.youtube.com/@abragin/videos)
 - [CMU Databese Group](https://www.youtube.com/@CMUDatabaseGroup/playlists)
 - [ISCRA](https://www.youtube.com/@iscrainfosecclubra6974/videos)
 - [Computer Science Center](https://www.youtube.com/@CompscicenterRu)
