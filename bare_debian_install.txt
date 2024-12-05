@@ -1,0 +1,21 @@
+# System utils
+
+curl
+wget
+htop
+acl
+sudo
+git
+
+# X11
+
+xorg
+
+# Applications
+
+gtypist
+awrit
+qutebrowser
+mpv
+zathura
+zathura-djvu

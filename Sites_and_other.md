@@ -2,12 +2,14 @@
 ## Sites
 - [debdocs](https://devdocs.io/)
 - [archwiki PDF Djvu](https://wiki.archlinux.org/title/PDF,_PS_and_DjVu)
+- [archwiki](https://wiki.archlinux.org/)
 - [lukesmith.xyz](https://lukesmith.xyz/programs/)
 - [cppreference](https://en.cppreference.com/w/)
 - [cplusplus](https://cplusplus.com/reference/)
 - [RFC editor](https://www.rfc-editor.org/)
 - [OpenNET](https://www.opennet.ru/)
 - [man7](https://man7.org/index.html)
+- [ALT linux wiki](https://www.altlinux.org/%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0)
 - [UNИX](https://uneex.org/MainPage)
 - [MAXimal](https://e-maxx.ru/algo/)
   > Algorithms

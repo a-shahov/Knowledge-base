@@ -2,13 +2,14 @@
        - for using examples: SQL language with cheatsheet
        - for regexp with cheatsheet
        - for curl (just use curl official cheat sheet)
-       - for grep and find
+       - for grep, find, xargs, expr, tr, sed, awk, sort, cut 
 2) need to elaborate concept of the tasks site with algorithms
 3) need to read python tutorial
-4) need add youtube channels into knowledge base (done)
+4) need to read book about SQL
+    - need to solve all examples in text
 5) functions needed in vim
     - comment block of code
-    - add/delete whitespaces for multiple lines
+    - add/delete tabs for multiple lines
     - tree of dirs
     - find and grep
     - tab completition for python
@@ -16,10 +17,56 @@
     - LSP python
 6) need to solve all hard homeworks from UNИX about python
 7) need to read all What's new in Python
-8) write my own typing app
-9) need to learn HTML, CSS
-10) need to learn Javascript
-11) need to learn JQuery
-12) need to learn Gimp
+8) kitty
+    - font settings check again in docs
+    - redraw terminal
+    - kitty terminfo bug?
+9) functions needed in new linux setup
+    - sleep mode
+    - display manager
+    - manage internet connection
+    - grub
+    - keyboard layout
+    - add keybindings for audio profile switch
+    - brightness control
+    - screen lock
+10) need to read ENUM HOWTO + dataclasses + pattern matching
+11) add systemd units in my system (qtile, and other apps?)
+12) need to learn gzip, tar, zip, bzip etc...
 13) functions needed in qtile
-
+    - ScratchPad and DropDown objects
+    - custom widget with sunsets
+    - CountDown widget
+    - use keychords for launching applications
+    - test mouse actions
+    - work with multiple screens
+    - slice layout with conky? and with cheatsheet 
+    - add second screen with config with 1 and 2 screens
+    - autostart with startup hooks, autostart.sh, group.spawn
+    - NEED extension commandset - very usefull
+    - widget with volume
+14) debian install script
+    - check if user exists
+    - add coproc with redirection into tee
+    - add main function
+    - add stages
+    - add colours, realy need?
+15) dotfiles
+    - kitty session alias
+    - zsh config
+    - work with sudo ?
+    - xinitrc
+    - autostartx X at login in zprofile
+    - transfer X files into config?
+    - add .local/bin, .local/python3.x/bin into PATH
+    - cursor theme
+    - ulimit, umask
+16) read book about SQL kuznetchov
+17) read books about Linux
+18) bash scripting
+19) zsh
+20) read book Dive into Python3
+21) read book about vim
+22) watch lections about databases
+23) watch lections about python
+    - need to solve UNIX python homeworks

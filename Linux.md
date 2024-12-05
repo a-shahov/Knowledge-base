@@ -1,8 +1,10 @@
 ---
 ## Debian
+- [Debian Documentation](https://www.debian.org/doc/)
 - [Debian New Maintainers' Guide](https://www.debian.org/doc/manuals/maint-guide/index.en.html)
 - [Debian main site](https://www.debian.org/)
 - [Debian installation manual](https://www.debian.org/releases/stable/installmanual)
+- [Debian reference](https://www.debian.org/doc/user-manuals#quick-reference)
 ---
 ## Linux workflow
 - [zsh](https://zsh.sourceforge.io/)
@@ -19,6 +21,7 @@
 - [gtypist](https://www.gnu.org/software/gtypist/)
 
 #### Linux terminal utils
+- [parted](https://www.gnu.org/software/parted/)
 - [bat](https://github.com/sharkdp/bat)
 - [presenterm](https://github.com/mfontanini/presenterm)
 - [icat](https://sw.kovidgoyal.net/kitty/kittens/icat/)
@@ -34,16 +37,29 @@
 - [find](https://www.man7.org/linux/man-pages/man1/find.1.html)
 ---
 ## Documents
+- [PulseAudio](https://www.freedesktop.org/wiki/Software/PulseAudio/Documentation/User/)
+- [StatusNotifierItem](https://www.freedesktop.org/wiki/Specifications/StatusNotifierItem/)
+- [dbus](https://www.freedesktop.org/wiki/Software/dbus/#documentation)
 - [File Hierarchy System](https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)
 - [Multi disks](https://tldp.org/HOWTO/Multi-Disk-HOWTO.html)
 - [RAID](https://tldp.org/HOWTO/Software-RAID-HOWTO.html)
 - [LVM](https://tldp.org/HOWTO/LVM-HOWTO/)
+- [LVM2](http://xgu.ru/wiki/LVM)
+- [LVM and fstab](https://xan.manning.io/2017/05/29/best-practice-for-mounting-an-lvm-logical-volume-with-etc-fstab.html)
+- [mdadm](http://xgu.ru/wiki/mdadm)
+- [modalias](https://wiki.archlinux.org/title/Modalias)
+- [Kernel module](https://wiki.archlinux.org/title/Kernel_module_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9))
 ---
 ## Tools
 - [perf](https://perf.wiki.kernel.org/index.php/Main_Page)
 - [grub2](https://www.gnu.org/software/grub/manual/grub/grub.html)
+- [basr reference manual](https://www.gnu.org/software/bash/manual/bash.html)
 ---
 ## Sites and blogs
+- [dotfiles](https://dotfiles.github.io/)
+- [Dotfiles arch wiki](https://wiki.archlinux.org/title/Dotfiles)
+- [статья про права linux хабр](https://habr.com/ru/articles/469667/)
+- [Курс RHCSA](https://basis.gnulinux.pro/ru/latest/course.html)
 - [bash scripting opennet](https://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 - [статья про zsh opennet](https://www.opennet.ru/base/dev/zsh_intro.txt.html)
 - [UEFI article](https://www.happyassassin.net/posts/2014/01/25/uefi-boot-how-does-that-actually-work-then/)

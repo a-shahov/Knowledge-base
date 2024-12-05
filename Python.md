@@ -108,6 +108,7 @@
 - [Разработка прикладных программ на Python курс](https://uneex.org/LecturesCMC/PythonDevelopment2015)
 ---
 ## Need to research
+- [pygments](https://pygments.org/)
 - [twisted](https://twisted.org/)
 - [cookiecutter](https://github.com/cookiecutter/cookiecutter)
 - [pytest-repeat](https://github.com/pytest-dev/pytest-repeat)

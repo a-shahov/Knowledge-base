@@ -1,5 +1,6 @@
 ---
 ## Just blogers
+- [Обычный пользователь](https://www.youtube.com/@user-hm6ut8tt4p)
 - [MAKC](https://www.youtube.com/@makc/playlists)
 - [Eric Murphy](https://www.youtube.com/@EricMurphyxyz)
 - [linux dabbler](https://www.youtube.com/@linuxdabbler/videos)
@@ -38,6 +39,7 @@
 
 ## Linux
 ---
+- [Linux Talks](https://www.youtube.com/@linuxtalks3773)
 - [klichalex. Linux](https://www.youtube.com/@klichalex_Linux-eto_prosto)
 - [Новая образовательная система](https://www.youtube.com/@newedusys)
 - [Dmitry Ketov](https://www.youtube.com/@DmitryKetov)
@@ -54,6 +56,9 @@
 - [TheOloccorb](https://www.youtube.com/@TheOloccorb)
 ---
 ## Computer science
+- [Миша Филатов](https://www.youtube.com/@misha_filitov)
+- [Industrial software engineering online](https://www.youtube.com/@industrialsoftwareengineering)
+- [Skillbox Media](https://www.youtube.com/@byskillboxmedia7275)
 - [Dr Bragin](https://www.youtube.com/@abragin/videos)
 - [CMU Databese Group](https://www.youtube.com/@CMUDatabaseGroup/playlists)
 - [ISCRA](https://www.youtube.com/@iscrainfosecclubra6974/videos)

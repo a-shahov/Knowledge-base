@@ -104,11 +104,11 @@ Current tasks:
 	- change permissions with enum (done)
 	- user state with enum (done)
 	- need to change tests with new claims in jwt (done)
-    13) need to read book about basic SQL
-        - need to solve all examples in text
+    13) need to read book about basic SQL (done)
+        - need to solve all examples in text (done)
     14) need to simplify all try clauses in code (done)
     15) need to add sites in knowledge-base (done)
-    16) need to read ENUM HOWTO + dataclasses + pattern matching
+    16) need to read ENUM HOWTO + dataclasses + pattern matching (done)
     17) add into auth_middleware check ueid and match_info
     18) need to upload and download files
         - need to invent alhorithm for storing user files
@@ -116,9 +116,9 @@ Current tasks:
 	- read about multipart HTTP (done)
     19) need to find places where match case will be good
         - maybe in ExceptionGroup?
-    20) read book Dive into Python3
-    21) read book about vim
-    22) watch lections about databases
-    23) watch lections about python
-        - need to solve UNIX python homeworks
+    20) read book Dive into Python3 (done)
+    21) read book about vim (done)
+    22) watch lections about databases (done)
+    23) watch lections about python (done)
+        - need to solve UNIX python homeworks (done)
 
